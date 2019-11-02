@@ -66,5 +66,6 @@ Pada Bahasa pemrograman python untuk membuat sebuah kondisi sama halnya dengan B
 Contoh
 Gitconfig
 
-![Uploading Screenshot (1).png…]()
+![Screenshot (1)](https://user-images.githubusercontent.com/56502068/68069423-921df480-fd92-11e9-96b8-10cea0ca1ee1.png)
+
 ![jetbrains_products](https://user-images.githubusercontent.com/56502068/68069391-49663b80-fd92-11e9-8711-608762dc307b.png)
