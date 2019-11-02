@@ -65,3 +65,5 @@ Pada Bahasa pemrograman python untuk membuat sebuah kondisi sama halnya dengan B
 
 Contoh
 Gitconfig
+
+![Uploading Screenshot (1).png…]()
