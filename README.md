@@ -46,6 +46,8 @@ print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
 contoh
 iftrue/false
 
+![Uploading Screenshot (1).png…]()
+
 Selanjutnya kita mengetahui setelah RUN yang benar:
 iftrue/false
 
